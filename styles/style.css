@@ -1,3 +1,7 @@
+body{
+  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+}
+
 .page {
   min-width: 1100px;
   /* мы ещё не умеем делать мобильную версию сайта, */
@@ -29,3 +33,5 @@
   margin-right: 0;
   margin-top: 80px;
 }
+
+
