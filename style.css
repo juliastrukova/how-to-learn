@@ -325,6 +325,7 @@ display: block;
 
 .footer__column-links{
   padding-left: 0;
+  list-style-type: none;
 
   z-index: 2;
   line-height: 30px;
