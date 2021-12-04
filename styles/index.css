@@ -7,8 +7,8 @@
 /* logo */
 @import url(/styles/logo/logo.css);
 /* header */
-@import url(/styles/logo/_place_header.css); 
-@import url(/styles/content/header/header.css); 
+@import url(/styles/logo/_place_header.css);
+@import url(/styles/content/header/header.css);
 @import url(/styles/content/header/__title.css);
 @import url(/styles/content/header/__subtitle.css);
 @import url(/styles/content/header/__link.css);
