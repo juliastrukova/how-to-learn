@@ -1,7 +1,0 @@
-.two-columns {
-    width: 80%;
-    display: grid;
-    grid-template-columns: 175px minmax(784px, 80%);
-    justify-content: space-between;
-    margin: 0 auto;
-  }
