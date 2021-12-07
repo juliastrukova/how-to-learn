@@ -1,23 +1,24 @@
-**How to learn. The first project for Yandex.Praktikum**
+**Научиться учиться. Первый проект для Яндекс.Практикум**
 
-The project is a one-page website made according to a brief.
+Проект представляет из себя одностраничный веб-сайт, выполненный по брифу.
 
-**Stack**
+**Технологии**
 * HTML
 * CSS
 
-**Realization**
-* Flexbox layout
-* CSS-animation
-* The Nested BEM file stucture
+**Реализовано:**
+* флексбокс-верстка
+* CSS-анимации
+* файловая структура Nested
+* оформление согласно БЭМ-у
 
-**Future improvements**
-* Connect other fonts
-* Add educational videos
-* Check the code for cross-browser compatibility and add all vendor prefixes
-* Design a form through which users can submit a comment
+**Планы по доработке проекта:**
+* подключить другие шрифты
+* добавить любимые образовательные видео
+* проверить код на кроссбраузерность и дописать все вендорные префиксы
+* задизайнить форму, через которую пользователи смогут отправить комментарий
 
-**Author:** Julia Strukova
+**Автор:** Юлия Струкова
 
-**url:**
+**ссылка:**
 https://github.com/juliastrukova/how-to-learn
