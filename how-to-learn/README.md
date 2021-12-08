@@ -20,5 +20,5 @@
 
 **Автор:** Юлия Струкова
 
-**ссылка:**
+**Ссылка:**
 https://github.com/juliastrukova/how-to-learn
