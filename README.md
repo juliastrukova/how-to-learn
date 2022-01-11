@@ -21,7 +21,7 @@
 **Автор:** Юлия Струкова
 
 **Ссылка на сайт:**
-https://juliastrukova.github.io/how-to-learn/how-to-learn/
+https://juliastrukova.github.io/how-to-learn/
 
 **Ссылка на гитхаб:**
 https://github.com/juliastrukova/how-to-learn
